@@ -15,7 +15,7 @@ import org.postgresql.ds.PGPoolingDataSource;
 
 /**
  *
- * @author nixoduaa
+ * @authosr nixoduaa
  */
 public class MySqlDataSource {
     private static MySqlDataSource miMySqlDS = null;
